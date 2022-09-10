@@ -1,2 +1,2 @@
 # nabila-resolusi
-repositoy untuk belajar ngoding
+Software Engineering - Git and Github Assignment
